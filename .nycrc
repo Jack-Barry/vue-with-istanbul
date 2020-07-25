@@ -1,0 +1,9 @@
+{
+  "extension": [
+    ".js",
+    ".ts",
+    ".vue"
+  ],
+  "instrument": false,
+  "sourceMap": false
+}
